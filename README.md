@@ -10,7 +10,7 @@ Enhanced-Classification-Performance-in-Diabetic-Retinopathy-Detection-Using-Know
 <li> Plotting: Matplotlib </li>
 
 License
-The project is licensed under the MIT License.
+The project is licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 Contact
 If you have any questions or suggestions regarding the project, please feel free to reach out to me: <a href= "abdullah.shafi191@gmail.com"> Hit me up </a>

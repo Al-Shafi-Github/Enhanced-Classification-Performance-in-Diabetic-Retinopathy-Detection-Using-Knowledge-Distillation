@@ -30,7 +30,7 @@ This repository demonstrates an approach to **improve diabetic retinopathy detec
 ## Methodology & Architecture
 Below is a high-level overview of the knowledge distillation process and training setups:
 
-<img src="https://github.com/user-attachments/assets/09a09ef9-0079-4205-9f7c-59e700506bbb" alt="Architecture of KD" width="500">
+<img src="https://github.com/user-attachments/assets/09a09ef9-0079-4205-9f7c-59e700506bbb" alt="Architecture of KD" width="900">
 
 1. **Teacher Model (Transformer / Vision Transformer)**  
 2. **Student Model (e.g., CNN-based network)**  
@@ -41,7 +41,7 @@ Below is a high-level overview of the knowledge distillation process and trainin
 ## Results & Analysis
 We compared multiple models (ResNet34, MobileVitV2, DenseNet121, GoogleNet, DeiT3) under three different strategies (Imbalance, Augmented, and Cost-Sensitive Learning). The bar chart below shows **training times** for each combination:
 
-<img src="https://github.com/user-attachments/assets/e36917cd-fb33-447a-95f9-21b99043a0c9" alt="Training Time of All The Models" width="800">
+<img src="https://github.com/user-attachments/assets/e36917cd-fb33-447a-95f9-21b99043a0c9" alt="Training Time of All The Models" width="600">
 
 - **Cost-Sensitive Learning** offers an average of ~5% reduction in training time compared to Imbalance approaches, and ~25% faster than Augmented methods.  
 
@@ -50,7 +50,7 @@ We compared multiple models (ResNet34, MobileVitV2, DenseNet121, GoogleNet, DeiT
 ## Explainable AI with SHAP
 We employed **SHAP** (SHapley Additive exPlanations) to interpret and visualize the model’s predictions. This helps identify the **critical regions** in retinal images that drive classification decisions:
 
-<img src="https://github.com/user-attachments/assets/0c61da1e-7fa2-45c0-9b83-4487ef64a34b" alt="Explainable AI" width="800">
+<img src="https://github.com/user-attachments/assets/0c61da1e-7fa2-45c0-9b83-4487ef64a34b" alt="Explainable AI" width="900">
 
 ---
 

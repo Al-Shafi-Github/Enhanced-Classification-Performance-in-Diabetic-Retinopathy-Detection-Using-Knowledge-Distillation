@@ -1,13 +1,15 @@
 ---
 
+---
+title: "Enhanced Classification Performance in Diabetic Retinopathy Detection Using Knowledge Distillation"
+---
+
 # Enhanced Classification Performance in Diabetic Retinopathy Detection Using Knowledge Distillation
 
 **Full Paper:**  
-- [IEEE Xplore](https://ieeexplore.ieee.org/document/10650642)  
+- [IEEE Xplore](https://ieeexplore.ieee.org/document/10650642)
 - [ResearchGate](https://www.researchgate.net/publication/383883431_Enhancing_Diabetic_Retinopathy_Detection_Through_Transformer_Based_Knowledge_Distillation_and_Explainable_AI)
 
-
----
 
 ## Introduction
 This repository demonstrates an approach to **improve diabetic retinopathy detection** by leveraging **Transformer-based knowledge distillation**. The primary objective is to **boost classification performance** while maintaining efficient inference. By combining **pre-trained models**, **Transformer architectures**, and **best practices** such as early stopping, selective layer updating, and hyperparameter tuning, this project aims to offer a more reliable diagnostic tool for **retinal image analysis**.

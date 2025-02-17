@@ -6,15 +6,6 @@
 - [IEEE Xplore](https://ieeexplore.ieee.org/document/10650642)  
 - [ResearchGate](https://www.researchgate.net/publication/383883431_Enhancing_Diabetic_Retinopathy_Detection_Through_Transformer_Based_Knowledge_Distillation_and_Explainable_AI)
 
-## Table of Contents
-1. [Introduction](#introduction)  
-2. [Key Features](#key-features)  
-3. [Technologies Used](#technologies-used)  
-4. [Methodology & Architecture](#methodology--architecture)  
-5. [Results & Analysis](#results--analysis)  
-6. [Explainable AI with SHAP](#explainable-ai-with-shap)  
-7. [License](#license)  
-8. [Contact](#contact)
 
 ---
 

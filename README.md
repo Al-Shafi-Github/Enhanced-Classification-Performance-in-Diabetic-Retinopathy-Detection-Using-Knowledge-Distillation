@@ -32,8 +32,8 @@ Below is a high-level overview of the knowledge distillation process and trainin
 
 <img src="https://github.com/user-attachments/assets/09a09ef9-0079-4205-9f7c-59e700506bbb" alt="Architecture of KD" width="900">
 
-1. **Teacher Model (Transformer / Vision Transformer)**  
-2. **Student Model (e.g., CNN-based network)**  
+1. **Teacher Model MobileVitV2)**  
+2. **Student Model (GoogleNet)**  
 3. **Distillation Loss** combining teacher outputs and ground truth.  
 
 ---
